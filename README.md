@@ -32,10 +32,14 @@ The [moment-generating function][mgf] for a [gamma][gamma-distribution] random v
 
 <!-- <equation class="equation" label="eq:gamma_mgf_function" align="center" raw="M_X(t) := \mathbb{E}\!\left[e^{tX}\right] = \left( 1 - \frac{t}{\beta} \right)^{-\alpha}" alt="Moment-generating function (MGF) for a gamma distribution."> -->
 
-<div class="equation" align="center" data-raw-text="M_X(t) := \mathbb{E}\!\left[e^{tX}\right] = \left( 1 - \frac{t}{\beta} \right)^{-\alpha}" data-equation="eq:gamma_mgf_function">
+```math
+M_X(t) := \mathbb{E}\!\left[e^{tX}\right] = \left( 1 - \frac{t}{\beta} \right)^{-\alpha}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="M_X(t) := \mathbb{E}\!\left[e^{tX}\right] = \left( 1 - \frac{t}{\beta} \right)^{-\alpha}" data-equation="eq:gamma_mgf_function">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@591cf9d5c3a0cd3c1ceec961e5c49d73a68374cb/lib/node_modules/@stdlib/stats/base/dists/gamma/mgf/docs/img/equation_gamma_mgf_function.svg" alt="Moment-generating function (MGF) for a gamma distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -251,7 +255,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
