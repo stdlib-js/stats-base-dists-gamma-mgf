@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-06-23)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`9d153b5`](https://github.com/stdlib-js/stdlib/commit/9d153b57100822ae6fe4cd3ad9475bf3ee4c8200) - **bench:** remove duplicate logic [(#5160)](https://github.com/stdlib-js/stdlib/pull/5160) _(by ekambains)_
 -   [`c7860af`](https://github.com/stdlib-js/stdlib/commit/c7860af1896d84360294b65f3e37982ca631c435) - **bench:** refactor random number generation in `stats/base/dists/gamma` [(#4929)](https://github.com/stdlib-js/stdlib/pull/4929) _(by Karan Anand)_
 -   [`a4cc596`](https://github.com/stdlib-js/stdlib/commit/a4cc596f9cdd579bad8e486f1feee2200f23ea9e) - **feat:** add C implementation for `stats/base/dists/gamma/mgf` [(#4354)](https://github.com/stdlib-js/stdlib/pull/4354) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
