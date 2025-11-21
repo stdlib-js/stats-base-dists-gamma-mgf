@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-05)
+## Unreleased (2025-11-21)
 
 <section class="features">
 
@@ -34,13 +34,14 @@ A total of 2 issues were closed in this release:
 
 <details>
 
--   [`590cfd6`](https://github.com/stdlib-js/stdlib/commit/590cfd61459544b8398c0d965190d82c15fc7196) - **docs:** replace manual `for` loop in examples [(#8020)](https://github.com/stdlib-js/stdlib/pull/8020) _(by Harsh)_
+-   [`9b13062`](https://github.com/stdlib-js/stdlib/commit/9b130625f0f19866a877023e9be85204636ef01e) - **docs:** fix return values in TSDoc return annotation comments _(by Philipp Burckhardt)_
+-   [`590cfd6`](https://github.com/stdlib-js/stdlib/commit/590cfd61459544b8398c0d965190d82c15fc7196) - **docs:** replace manual `for` loop in examples [(#8020)](https://github.com/stdlib-js/stdlib/pull/8020) _(by Harsh Yadav)_
 -   [`e678757`](https://github.com/stdlib-js/stdlib/commit/e678757c9a62631a907278ec13a5d7b27c0f1e15) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
--   [`9d153b5`](https://github.com/stdlib-js/stdlib/commit/9d153b57100822ae6fe4cd3ad9475bf3ee4c8200) - **bench:** remove duplicate logic [(#5160)](https://github.com/stdlib-js/stdlib/pull/5160) _(by ekambains)_
+-   [`9d153b5`](https://github.com/stdlib-js/stdlib/commit/9d153b57100822ae6fe4cd3ad9475bf3ee4c8200) - **bench:** remove duplicate logic [(#5160)](https://github.com/stdlib-js/stdlib/pull/5160) _(by Ekampreet Singh Bains)_
 -   [`c7860af`](https://github.com/stdlib-js/stdlib/commit/c7860af1896d84360294b65f3e37982ca631c435) - **bench:** refactor random number generation in `stats/base/dists/gamma` [(#4929)](https://github.com/stdlib-js/stdlib/pull/4929) _(by Karan Anand)_
 -   [`a4cc596`](https://github.com/stdlib-js/stdlib/commit/a4cc596f9cdd579bad8e486f1feee2200f23ea9e) - **feat:** add C implementation for `stats/base/dists/gamma/mgf` [(#4354)](https://github.com/stdlib-js/stdlib/pull/4354) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`f387603`](https://github.com/stdlib-js/stdlib/commit/f387603e739f88a38af3263ce6ff675ad903ee8c) - **docs:** consistently use declarative instead of imperative sentences outside of intros _(by Philipp Burckhardt)_
@@ -57,11 +58,11 @@ A total of 2 issues were closed in this release:
 
 A total of 5 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Ekampreet Singh Bains
+-   Harsh Yadav
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
--   ekambains
 
 </section>
 
