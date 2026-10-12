@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-10-12)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`63a4212`](https://github.com/stdlib-js/stdlib/commit/63a4212cfaf1c10b6013a05cf3fa1488e1f97606) - **test:** migrate `stats/base/dists/gamma/mgf` to ULP-based assertions [(#15950)](https://github.com/stdlib-js/stdlib/pull/15950) _(by Athan Reines)_
 -   [`10ee0a5`](https://github.com/stdlib-js/stdlib/commit/10ee0a56ed60ae3d051ff0426b8e203a29c44cdc) - **chore:** clean-up [(#13754)](https://github.com/stdlib-js/stdlib/pull/13754) _(by Philipp Burckhardt)_
 -   [`dbe4c82`](https://github.com/stdlib-js/stdlib/commit/dbe4c820ea98330253b4054a5bc9b04b2293415b) - **docs:** propagate fixes to sibling packages [(#12677)](https://github.com/stdlib-js/stdlib/pull/12677) _(by Philipp Burckhardt, Athan Reines)_
 -   [`3480dc2`](https://github.com/stdlib-js/stdlib/commit/3480dc202d5214003486601367322d985b8bfe29) - **chore:** address commit comments for commit `9c42a28` [(#10853)](https://github.com/stdlib-js/stdlib/pull/10853) _(by Partha Das)_
